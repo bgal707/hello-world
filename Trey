@@ -1,0 +1,81 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="Description" content="Trey's Lounge">
+	<title>Trey's Blog</title>
+	<link rel="stylesheet" href="_styles/styles.css">
+    <style>
+        img {
+            border-radius: 8px;
+            }
+    
+    </style>
+</head>
+<body>
+<div class="container">  
+<header role="banner">
+<div>
+<h1 class="logo">Trey's Lounge</h1>
+<nav role="navigation">
+           	<ul>
+                <li><a href="#intro" title="introduction">Introduction</a></li>
+
+                <li><a href="#activities" title="activities">Activities</a></li>
+
+                <li><a href="#food" title="food">Food</a></li>
+
+                <li><a href="#movies" title="section four">Movies</a></li>
+
+                <li><a href="#personalLife" title="section five">Personal Life</a></li>
+            	</ul>
+</nav>
+</div>
+
+</header>
+</div>   
+<main role="main">
+<article>
+    
+<div><img src="_images/TreyHeadshot.jpg" width="280" height="300" alt="trey portrait pic" class="picRight"></div>
+<section>
+    
+    <p class="pageHeaderBody">Thanks for checking out my blog <em>gatas e cachorros!</em>
+	On this page, I will tell you a little bit about myself and what I like to do.
+	I'll mention things like my favorite activities, food, and favorite movies.</p>
+<h2 id="intro" class="sectionHeader">Introduction</h2>
+
+	<h3 class="subSectionHeader">Early Life</h3>
+
+	<p class="leftPara">I was born sometime in 2017, in the hard <a href="https://www.youtube.com/watch?v=4z2DtNW79sQ" title="Trey's Streets of Philly" target="_blank">Streets of Philadelphia</a>. My mom was an alley cat who was addicted to cat nip and could often be found in the back alleys of Chinatown, begging for leftover Beef Lo Mein.  My dad left us for another woman when I was just a kitty. I would often hear my mom complaining about &ldquo;that sassy blind bitch&rdquo; he ran off with.<p>
+	<p class="leftPara">After some time, my mom got tired of me constantly sleeping and leaving hairballs all over the place so she left me. Since my mom <strong>abandoned me</strong>, I had to fend for myself. I was forced to sleep in Amazon Prime&copy; boxes and Whole Foods&copy; paper bags, something I still do to this day.<p> 
+	<p class="rightPara">One day, while I was hunting rubber bands, a scary man with a net captured me and threw me into a truck and took me away to a maximum security <u>pet</u>itentiary. Due to my good behavior and <em>cattitude</em>, I was transferred to a minimum security Petco, where conjugal snuggle visits were allowed with strange humans.<p>
+	<p class="rightPara">After a month behind bars a bunny-like angel lady and a hairy gorilla man paid me a visit. The bunny lady was the nicest, sweetest stranger to ever come visit me in my cell. The gorilla-man was okay, he just kinda shrugged his shoulders the whole time and said "yea, whatever Snuggs."</p><img src="_images/MomDad.jpg" width="300" height="250" alt="family pic" class="picLeft">
+</section>
+<section>
+<h2 id="activities" class="sectionHeader">Activities</h2>
+
+    <p>*****MORE CONTENT*****</p>
+</section>
+<section>
+<h2 id="food" class="sectionHeader">Food</h2>
+	<p>*****MORE CONTENT*****</p>
+</section>
+<section>
+<h2 id="movies" class="sectionHeader">Movies</h2>
+	<p>*****MORE CONTENT*****</p>
+</section>
+<section>
+<h2 id="personalLife" class="sectionHeader">Personal Life</h2> 
+	<p>*****MORE CONTENT*****</p>
+</section>
+</article>
+</main>
+<footer role="contentinfo">
+<i>This is a TreyNinja Production&copy;. All rights reserved. Anyone found to be in violation of our terms and agreements will be subject to PowerPaw&trade; and/or SandpaperTongueLicks&trade;</i>
+</footer>
+</body>
+
+</html>
